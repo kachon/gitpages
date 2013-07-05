@@ -33,3 +33,4 @@ DEFAULT_PAGINATION = 1
 
 THEME = 'Just-Read'
 
+STATIC_PATHS = ['images']
